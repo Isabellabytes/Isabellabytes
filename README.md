@@ -1,16 +1,15 @@
-## Hi there 👋
+git config --global user.name "Isabella 💻✨"
+git config --global user.email "seuemail@exemplo.com"
 
-<!--
-**Isabellabytes/Isabellabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+git config --global color.ui true
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+git config --global core.editor "code --wait"
+
+git config --global alias.bella "status -sb"   # Mostrar status rápido
+git config --global alias.magic "log --oneline --graph --decorate --all" # Histórico em formato mágico 🌟
+git config --global alias.pushme "push origin main"  # Empurrar direto para a main 🚀
+git config --global alias.start "init"         # Criar novo repositório rapidinho
+git config --global alias.cloneit "clone"      # Clonar repositórios de forma estilosa
+
+git config --global bash.showBranch true

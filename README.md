@@ -13,6 +13,3 @@
 </div>
 
 ###
-
-```bash
-git config --global user.name "$(echo -e '\033[1;35mIsabella 💖✨\033[0m')"

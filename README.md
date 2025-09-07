@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Isabellabytes/Isabellabytes/output/snake.svg" alt="Snake animation" />
 
 ###
